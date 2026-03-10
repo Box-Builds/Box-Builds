@@ -46,4 +46,4 @@ The project reverse-engineers ATP website endpoints and wraps them in a clean de
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+[- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/stephen-box-176b9a3b5/)
