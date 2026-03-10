@@ -2,7 +2,7 @@
 
 I'm a self-taught developer who enjoys breaking down complex systems and building tools that solve real-world problems.
 
-Most of my projects start with a question or challenge I encounter personally, and evolve through experimentation, iteration, and system design. I enjoy exploring how systems behave under real-world constraints and turning raw data into practical tools.
+Most of my projects begin with a question or challenge I encounter personally and evolve through experimentation, iteration, and system design.
 
 ---
 
@@ -10,7 +10,7 @@ Most of my projects start with a question or challenge I encounter personally, a
 
 ### NBA Statistical Edge Development
 
-A multi-phase analytics system exploring how to evaluate NBA player prop outcomes using historical data.
+A multi-phase analytics system exploring how to evaluate NBA player prop outcomes using historical player data.
 
 The project evolved from market-comparison experiments into a structured framework combining:
 
@@ -46,4 +46,4 @@ The project reverse-engineers ATP website endpoints and wraps them in a clean de
 
 ## Connect
 
-[- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/stephen-box-176b9a3b5/)
+[LinkedIn](https://www.linkedin.com/in/stephen-box-176b9a3b5/)
