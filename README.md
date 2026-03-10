@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Stephen Box
 
-<!--
-**Box-Builds/Box-Builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer who enjoys breaking down complex systems and building tools that solve real-world problems.
 
-Here are some ideas to get you started:
+Most of my projects start with a question or challenge I encounter personally, and evolve through experimentation, iteration, and system design. I enjoy exploring how systems behave under real-world constraints and turning raw data into practical tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+### NBA Statistical Edge Development
+
+A multi-phase analytics system exploring how to evaluate NBA player prop outcomes using historical data.
+
+The project evolved from market-comparison experiments into a structured framework combining:
+
+- historical distribution analysis
+- probability interpretation tools
+- rule-based filtering
+- human-in-the-loop decision systems
+
+This project serves as a case study in developing analytical systems under uncertainty.
+
+---
+
+### ATP Tennis API
+
+A Python API that exposes structured ATP Tour match, tournament, and head-to-head data.
+
+The project reverse-engineers ATP website endpoints and wraps them in a clean developer-friendly interface using **FastAPI**, allowing tennis statistics to be accessed programmatically.
+
+---
+
+## Technologies I Work With
+
+- Python
+- Pandas / NumPy
+- Scikit-learn
+- FastAPI
+- Streamlit
+- Data pipelines
+- API development
+- Statistical analysis
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
