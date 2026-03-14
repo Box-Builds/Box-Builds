@@ -21,14 +21,15 @@ The project evolved from market-comparison experiments into a structured framewo
 
 This project serves as a case study in developing analytical systems under uncertainty.
 
+[NBA Statistical Edge Development](https://github.com/Box-Builds/nba-statistical-edge-development)
 ---
 
-### ATP Tennis API
+### Tennis API
 
 A Python API that exposes structured ATP Tour match, tournament, and head-to-head data.
 
 The project reverse-engineers ATP website endpoints and wraps them in a clean developer-friendly interface using **FastAPI**, allowing tennis statistics to be accessed programmatically.
-
+[Tennis API](https://github.com/Box-Builds/Tennis.API)
 ---
 
 ## Technologies I Work With
