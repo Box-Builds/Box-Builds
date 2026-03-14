@@ -8,7 +8,7 @@ Most of my projects begin with a question or challenge I encounter personally an
 
 ## Projects
 
-### NBA Statistical Edge Development
+[NBA Statistical Edge Development](https://github.com/Box-Builds/nba-statistical-edge-development)
 
 A multi-phase analytics system exploring how to evaluate NBA player prop outcomes using historical player data.
 
@@ -21,16 +21,14 @@ The project evolved from market-comparison experiments into a structured framewo
 
 This project serves as a case study in developing analytical systems under uncertainty.
 
-[NBA Statistical Edge Development](https://github.com/Box-Builds/nba-statistical-edge-development)
 ---
 
-### Tennis API
+[Tennis API](https://github.com/Box-Builds/Tennis.API)
 
 A Python API that exposes structured ATP Tour match, tournament, and head-to-head data.
 
 The project reverse-engineers ATP website endpoints and wraps them in a clean developer-friendly interface using **FastAPI**, allowing tennis statistics to be accessed programmatically.
 
-[Tennis API](https://github.com/Box-Builds/Tennis.API)
 ---
 
 ## Technologies I Work With
